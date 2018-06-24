@@ -154,6 +154,10 @@ MIT
 MIT
 MIT
 
+angular-webstorage-service@1.0.2
+MIT
+MIT
+
 @angular/material@5.2.5
 MIT
 The MIT License
