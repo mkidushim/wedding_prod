@@ -8,7 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.0133989aa0cc809ce6b8.js",
+        "/main.3052f2e04b0e16b0c27c.js",
         "/polyfills.8cfdfe87e8a35e361928.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.5ebe6b47c3d5bd920b90.css"
@@ -90,8 +90,8 @@
     "/assets/proposal.jpg": "cf66927e41931db2b31c4a7e4cdf0b09bb8f84b7",
     "/assets/travel_plane.png": "a9d7b6d751196f18745720ca48bbf1606926bea0",
     "/assets/wedding.ico": "c2ebe3be6378d376e7867392fe90280b810558e3",
-    "/index.html": "0b10baf75d6109d4c37d2d6c28b2045fb75620ff",
-    "/main.0133989aa0cc809ce6b8.js": "98d359afd0ab1daf9a58425ae220f63b2b3eee4e",
+    "/index.html": "ae4b907684bb04a202147b6cd1d63ffd62fb2e68",
+    "/main.3052f2e04b0e16b0c27c.js": "2e6f0cb07ba085e3d9c444fb40df9f6eab2b4cfe",
     "/polyfills.8cfdfe87e8a35e361928.js": "4db7a267f3eb9c7eb14cc4861d68f5917b52af2c",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.5ebe6b47c3d5bd920b90.css": "3ee6b23386a641fe419f687319ddadd0180f6069"
