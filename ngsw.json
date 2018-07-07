@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/index.html",
+        "/main.0133989aa0cc809ce6b8.js",
+        "/polyfills.8cfdfe87e8a35e361928.js",
+        "/runtime.a66f828dca56eeb90e02.js",
+        "/styles.5ebe6b47c3d5bd920b90.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/GE.ttf",
+        "/assets/Milkshake.otf",
+        "/assets/attrium.jpg",
+        "/assets/az.jpg",
+        "/assets/banner.png",
+        "/assets/barmitzva.jpg",
+        "/assets/bday.jpg",
+        "/assets/bill.jpg",
+        "/assets/burkheads.jpeg",
+        "/assets/cake.png",
+        "/assets/fih.jpg",
+        "/assets/grade8.jpg",
+        "/assets/hyatt.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/kidushims.jpg",
+        "/assets/marriot.jpg",
+        "/assets/mission.jpg",
+        "/assets/nav.png",
+        "/assets/ny.jpg",
+        "/assets/ny.m4v",
+        "/assets/ny2.jpg",
+        "/assets/owl.jpg",
+        "/assets/proposal.jpg",
+        "/assets/travel_plane.png",
+        "/assets/wedding.ico"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/GE.ttf": "aad59f20a055e1a1ba298355e39e035d9a875e8a",
+    "/assets/Milkshake.otf": "db9dd38b29543fa97bc66197c12048863c8fcecc",
+    "/assets/attrium.jpg": "706c20ec84e63b81ec7648793711a0d09e4e67b6",
+    "/assets/az.jpg": "8e7b7ac85b882267b60a93aa2ba0688fc8acc1dc",
+    "/assets/banner.png": "db188913727375f19c587a54511d5686446ffef7",
+    "/assets/barmitzva.jpg": "5095db9460ddcec1c619e41bc463adcb85dfdb59",
+    "/assets/bday.jpg": "aa0ecd159ce0cf514d21e3f7651c576daf65de78",
+    "/assets/bill.jpg": "587850f31a10f28d12a1fac40d844b3e8e41e86e",
+    "/assets/burkheads.jpeg": "638a9ec91b979dc8c0f4e31197d7fc860899b2a8",
+    "/assets/cake.png": "72680838cb1fbce6ae91e2a00c71c52b8cb16ffa",
+    "/assets/fih.jpg": "a7fd4faf301838f5a981d90d2bf9fbd6ac94d732",
+    "/assets/grade8.jpg": "54e0890878bfa80957a76cbd67299357e0904d95",
+    "/assets/hyatt.jpg": "69b3daf28517e8252e8fbf0dff992deef36b8506",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/kidushims.jpg": "100972afa699006c85e6c7d2e62ba54cacfdacd4",
+    "/assets/marriot.jpg": "f43aa835fecb7c5c8fbce679b1c59fb197a8c78c",
+    "/assets/mission.jpg": "d51dd391e07aa9935e7983469278cd19c8d3f20a",
+    "/assets/nav.png": "603f6e0f8eba48c3a71e0999b45786f38d6a8558",
+    "/assets/ny.jpg": "f6791fbc3b53a5dad09c481fffacaa1bf2fe36a0",
+    "/assets/ny.m4v": "66285e6dd4f6a22a9cb6beb05292d342e9740940",
+    "/assets/ny2.jpg": "4b212b441e4cb513fda0558f5ed0a88795511c88",
+    "/assets/owl.jpg": "dc91d36c0713c34518da289fd027dde84651caa6",
+    "/assets/proposal.jpg": "cf66927e41931db2b31c4a7e4cdf0b09bb8f84b7",
+    "/assets/travel_plane.png": "a9d7b6d751196f18745720ca48bbf1606926bea0",
+    "/assets/wedding.ico": "c2ebe3be6378d376e7867392fe90280b810558e3",
+    "/index.html": "0b10baf75d6109d4c37d2d6c28b2045fb75620ff",
+    "/main.0133989aa0cc809ce6b8.js": "98d359afd0ab1daf9a58425ae220f63b2b3eee4e",
+    "/polyfills.8cfdfe87e8a35e361928.js": "4db7a267f3eb9c7eb14cc4861d68f5917b52af2c",
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/styles.5ebe6b47c3d5bd920b90.css": "3ee6b23386a641fe419f687319ddadd0180f6069"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
